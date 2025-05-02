@@ -1,0 +1,55 @@
+@media only screen and (max-width: 1680px) {
+    html {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width: 1450px) {
+    html {
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 1366px) {
+    html {
+        font-size: 13px;
+    }
+}
+
+@media only screen and (max-width: 1152px) {
+    html {
+        font-size: 12px;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    html {
+        font-size: 11px;
+    }
+
+}
+
+@media only screen and (max-width: 991px) {
+    .visible-tab-mobile {
+        display: block !important;
+    }
+    
+    .hide-tab-mobile {
+        display: none !important;
+    }
+    
+}
+
+@media only screen and (max-width: 767px) {
+    .visible-mobile-only {
+        display: block !important;
+    }
+    
+    .hide-mobile-only {
+        display: none !important;
+    }
+}
+
+@media only screen and (max-width: 600px) {}
+
+@media only screen and (max-width: 325px) {}
